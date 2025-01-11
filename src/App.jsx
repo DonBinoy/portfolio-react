@@ -3,6 +3,7 @@ import Navbar from './components/Navbar/Navbar.jsx'
 import Hero from './components/Hero/Hero.jsx'
 import About from './components/about/About.jsx'
 import Services from './components/Services/Services.jsx'
+import MyWork from './components/MyWork/MyWork.jsx'
 
 
 const App = () => {
@@ -12,6 +13,7 @@ const App = () => {
       <Hero/>
       <About/>
       <Services/>
+      <MyWork/>
     </div>
 
   )
